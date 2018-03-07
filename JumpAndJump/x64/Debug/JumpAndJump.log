@@ -1,0 +1,10 @@
+﻿  obj.cpp
+c:\users\超\documents\visual studio 2015\projects\jumpandjump\jumpandjump\glee\glee.h(66): fatal error C1083: 无法打开包括文件: “GL/glx.h”: No such file or directory
+  main.cpp
+  正在生成代码...
+  正在编译...
+  scene.cpp
+  Texture.cpp
+c:\users\超\documents\visual studio 2015\projects\jumpandjump\jumpandjump\texture.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\超\documents\visual studio 2015\projects\jumpandjump\jumpandjump\texture.cpp(103): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  正在生成代码...
